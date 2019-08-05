@@ -10,8 +10,11 @@ public class Algoritmos {
         int idade = sc.nextInt();
 
         if (idade < 16) {
+            
             System.out.println("Não vota!");
+            
         } else {
+            
             if (idade <= 18) {
                 System.out.println("Opcional");
 
