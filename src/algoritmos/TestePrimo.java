@@ -25,10 +25,10 @@ public class TestePrimo {
                         }
                         ehPrimo = true;
 
-		}
+		} // fim do for
                 
                 System.out.println("FIM");
 
-	}
+	}// fim do main
 
 }

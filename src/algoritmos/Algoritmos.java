@@ -25,5 +25,7 @@ public class Algoritmos {
                 
             }
         }
+        
+        System.out.println("fim");
     }
 }
