@@ -26,6 +26,8 @@ public class TestePrimo {
                         ehPrimo = true;
 
 		}
+                
+                System.out.println("FIM");
 
 	}
 
